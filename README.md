@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WilliamTan95
-- 👀 I’m interested in learning programming and automating stuff. 
+- 👀 I’m interested in developing scripts. 
 - 🌱 I’m currently learning python.
 
 
